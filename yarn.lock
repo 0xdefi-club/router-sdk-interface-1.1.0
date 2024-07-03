@@ -1599,7 +1599,7 @@
 
 "@uniswap/v2-sdk@https://github.com/0xdefi-club/dtx-swap-v2-sdk-interface.git":
   version "3.0.1"
-  resolved "https://github.com/0xdefi-club/dtx-swap-v2-sdk-interface.git#b9f8b850f360ce93e6e71ea0cf29966f2baf6264"
+  resolved "https://github.com/0xdefi-club/dtx-swap-v2-sdk-interface.git#2f2c37569e9e9d1c50c7bc02cd6e0e5f9d0ecda7"
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
